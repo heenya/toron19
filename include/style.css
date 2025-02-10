@@ -1,0 +1,80 @@
+body{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+/* 기본 */
+a:visited { color:#666666; text-decoration: none; font-family: "돋움"; font-size: 12px; }
+a:link    { color:#666666; text-decoration: none; font-family: "돋움"; font-size: 12px; }
+a:active  { color:#666666; text-decoration: none; font-family: "돋움"; font-size: 12px; }
+a:hover   { color:#44b400; text-decoration: none; font-family: "돋움"; font-size: 12px; }
+
+td 		  {font-size:12px; color: #7a7a7a; text-decoration: none; font-family: "돋움", "tahoma"; line-height: 14pt }
+
+
+/* 텍스트박스 */
+.tbox{
+	font-family:굴림; font-size:9pt; border-width:1; border-color:#c6d0df; border-style:solid;background-color:#ffffff;
+}
+
+
+/* 텍스트박스  */
+.textarea_bgW{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	border:1px solid #FFFFFF;
+	scrollbar-3dlight-color:#ebebeb;
+	scrollbar-arrow-color:#b5b5b5;
+	scrollbar-track-color:#eeeeee;
+	scrollbar-darkshadow-color:#b5b5b5;
+	scrollbar-face-color:#FFFFFF;
+	scrollbar-highlight-color:#b5b5b5;
+	scrollbar-shadow-color:#b5b5b5;
+	font-size:12px;
+	color:#666666;
+	background-color:#FFFFFF;
+
+}
+
+.textarea_bg_gray{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	border:1px solid #FFFFFF;
+	scrollbar-3dlight-color:#ebebeb;
+	scrollbar-arrow-color:#b5b5b5;
+	scrollbar-track-color:#eeeeee;
+	scrollbar-darkshadow-color:#b5b5b5;
+	scrollbar-face-color:#FFFFFF;
+	scrollbar-highlight-color:#b5b5b5;
+	scrollbar-shadow-color:#b5b5b5;
+	font-size:12px;
+	color:#666666;
+	background-color:#F9F9F9;
+}
+
+
+/* 공통폰트 */
+.f_11px {font-size:11px;}
+.f_bold {font-weight:bold;}
+.f_gr {color:#50a412;}
+.f_v_gr {color:#48751f;}
+.f_or {color:#e66745;}
+.f_gy {color:#999999;}
+
+
+/* 테이블 */
+.DataTable {text-align:left;}
+.DataTable td {border-bottom:1px solid #e8e8e8;}
+
+input {border:#CCC 1px solid;}
+
+
+

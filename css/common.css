@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css); 
+
+/* Basic */
+html, body {width:100%; height:100%; margin:0; padding:0; color:#666666; line-height:18px;}
+html {overflow-y:scroll;}
+body{font-size:75%; font-family:'Nanum Gothic', NanumGothic,'나눔고딕', 'Nanum Gothic', 'NanumBarunGothic' , Dotum, '돋움', Gulim, '굴림',sans-serif;}
+a, address, blockquote, br, fieldset, legend, label, form, input, select, textarea, button, table, th, td caption, cite, code, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, div, iframe, ul, ol, li, hr, form, img{margin:0; padding:0;}
+h1, h2, h3, h4, h5, h6 {font-size:12px;}
+ul, ol {list-style:none;}
+img{vertical-align:middle; border:none;}
+
+
+
+
+/* Hyper Link */
+a,
+a:link,
+a:visited{text-decoration:none; color:#666666;}
+a:active,
+a:hover{text-decoration:none;}
+
+#meu04 a{text-decoration:none; color: #666666;}
+#meu04 a:hover{text-decoration:none; color: #006bbe;}
+
+
+/* Hidden Content */
+.skip{width:0; height:0; line-height:0; font-size:0; margin:0; padding:0; overflow:hidden; display:none; visibility:hidden; position:absolute; z-index:-1; top:-3000px;}
+
+
+/* hr */
+hr{clear:both; display:none; list-style:none; position:absolute; top:0; left:0; width:0; height:0; margin:0; padding:0; border:0; background:none; font-size:0px; line-height:0; visibility:hidden;}
+
+
+/* Legend,Label */
+legend {display:none; list-style:none; position:absolute; top:0; left:0; width:0; height:0; margin:0; padding:0; border:0; background:none; font-size:0px; line-height:0; visibility:hidden;}
+label.label_none {display:none; list-style:none; position:absolute; top:0; left:0; width:0; height:0; margin:0; padding:0; border:0; background:none; font-size:0px; line-height:0; visibility:hidden;}
+
+
+/* Form */
+fieldset {border:none;}
+input{vertical-align:middle;}
+input, select {font-size:100%; vertical-align:middle;}
+
+
+/* Table */
+table {border-collapse:collapse; border-spacing:0;}
+caption {display:none; list-style:none; position:absolute; top:0; left:0; width:0; height:0; margin:0; padding:0; border:0; background:none; font:0/0; line-height:0; visibility:hidden;}
+
+
+/* textBox */
+.tbox {border:1px solid #dbdbdb; background:#f9f9f9; height:26px; line-height:26px; }
+
+
+
+/* 화면에서 없애기 */
+.display_non {display:none;}
+
+
+
+
+
+
